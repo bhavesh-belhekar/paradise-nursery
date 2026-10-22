@@ -200,3 +200,33 @@
   color: white;
 }
 
+.landing-content {
+  max-width: 700px;
+  padding: 30px;
+}
+
+.landing-content h1 {
+  font-size: 3rem;
+  margin-bottom: 16px;
+}
+
+.landing-content p {
+  font-size: 1.2rem;
+  margin-bottom: 28px;
+}
+
+.get-started-button {
+  background-color: #2e7d32;
+  color: white;
+  border: none;
+  padding: 14px 28px;
+  font-size: 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.get-started-button:hover {
+  background-color: #1b5e20;
+}
+
+
